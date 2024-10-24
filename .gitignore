@@ -23,5 +23,3 @@ yarn-error.log*
 # WebStorm
 /.idea
 
-# npm
-/package-lock.json
